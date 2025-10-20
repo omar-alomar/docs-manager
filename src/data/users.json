@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "email": "mike.johnson@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Omar Aloamr",
+    "email": "omaro2@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Cris ronaldo",
+    "email": "AAA@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Bob Wilson",
+    "email": "bob.wilson@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Sarah Davis",
+    "email": "sarah.davis@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Test User",
+    "email": "test@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Emma Wilson",
+    "email": "emma.wilson@example.com"
+  },
+  {
+    "id": 11,
+    "name": "dwdw",
+    "email": "dwdw"
+  },
+  {
+    "id": 12,
+    "name": "Test User from MCP",
+    "email": "test.mcp@example.com"
+  },
+  {
+    "id": 13,
+    "name": "crickety jiminy",
+    "email": "crickety.jiminy@example.com"
+  },
+  {
+    "id": 14,
+    "name": "dwd",
+    "email": "dwd"
+  },
+  {
+    "id": 15,
+    "name": "ben",
+    "email": "stila@benji.com"
+  },
+  {
+    "id": "a1b2c3d4e5f6",
+    "name": "Emily Carter",
+    "email": "emily.carter89@example.com"
+  },
+  {
+    "id": 17,
+    "name": "mmmmmmmmmm",
+    "email": "m@m.com"
+  },
+  {
+    "id": 18,
+    "name": "gawbat bargo",
+    "email": "bard@bartus.com"
+  },
+  {
+    "id": "a3f5d6b8-92e4-4c7b-9f87-2d3a7e5f1c6b",
+    "name": "Emily Johnson",
+    "email": "emily.johnson87@example.com"
+  },
+  {
+    "id": 20,
+    "name": "jitty boi",
+    "email": "jitty.boi@example.com"
+  },
+  {
+    "id": 21,
+    "name": "king cvon",
+    "email": "von@oblock.com"
+  },
+  {
+    "id": 22,
+    "name": "KING VON",
+    "email": ""
+  },
+  {
+    "id": 23,
+    "name": "KING VON",
+    "email": "king.von@example.com"
+  },
+  {
+    "id": 24,
+    "name": "Polo G",
+    "email": "polog@example.com"
+  },
+  {
+    "id": "a7b9c3d8-4e56-4172-9f04-2b1e65fa97d3",
+    "name": "Laura Jensen",
+    "email": "laura.jensen94@example.com"
+  },
+  {
+    "id": "b394e7d2-58f4-4c9a-8e3e-5b6d9a1f7c23",
+    "name": "Emily Carter",
+    "email": "emily.carter89@example.com"
+  },
+  {
+    "id": 27,
+    "name": "21 Savage",
+    "email": "21savage@example.com"
+  }
+]
